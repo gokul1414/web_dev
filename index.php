@@ -24,7 +24,7 @@ else{
 <body>
     <div class="login">
       <form action="" class="login__create " autocomplete="off" method="post" id="login-up">
-        <h1>Welcome   <?php echo $user["name"]; ?> ,You have been Successfuly Logined </h1>
+        <h1>Welcome   <?php echo $user["name"]; ?> ,You have Successfully Logged in</h1>
         <a href="logout.php" class="login__button_login">Logout</a>
       </form>
     </div> 
